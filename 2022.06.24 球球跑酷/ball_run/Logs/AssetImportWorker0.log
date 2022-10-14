@@ -1,0 +1,259 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.36f1c1 (f1b5774ca487) revision 15840631'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'zh' Physical Memory: 16241 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\MYWORLD\Unity\Unity Editor 2020\2020.3.36f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/MyProgram/Unity WY COURSE/2022.06.24（球球吃金币）/ball_run
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53609
+Successfully changed project path to: D:/MyProgram/Unity WY COURSE/2022.06.24（球球吃金币）/ball_run
+D:/MyProgram/Unity WY COURSE/2022.06.24（球球吃金币）/ball_run
+Using Asset Import Pipeline V2.
+AS: AutoStreaming module initializing.Refreshing native plugins compatible for Editor in 34.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.36f1c1 (f1b5774ca487)
+[Subsystems] Discovering subsystems at path D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/MyProgram/Unity WY COURSE/2022.06.24（球球吃金币）/ball_run/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   30.0.15.1295
+Initialize mono
+Mono path[0] = 'D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56324
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000937 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 26.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.496 seconds
+Domain Reload Profiling:
+	ReloadAssembly (496ms)
+		BeginReloadAssembly (59ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (379ms)
+			LoadAssemblies (59ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (128ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (136ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (27ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (68ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001884 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.988 seconds
+Domain Reload Profiling:
+	ReloadAssembly (989ms)
+		BeginReloadAssembly (154ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (787ms)
+			LoadAssemblies (107ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (251ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (320ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (221ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1516 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.7 MB.
+System memory in use after: 71.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1955.
+Total: 2.383600 ms (FindLiveObjects: 0.117000 ms CreateObjectMapping: 0.037300 ms MarkObjects: 2.176300 ms  DeleteObjects: 0.052400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/DeepSpaceSkyboxPack/DiverseSpace
+  artifactKey: Guid(5cc9495a24cdd1e45a3b7a2615f882e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/DiverseSpace using Guid(5cc9495a24cdd1e45a3b7a2615f882e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94071e6ef92446c9b6a6ecb5ef2c171e') in 0.007467 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 184.073799 seconds.
+  path: Assets/Ball.cs
+  artifactKey: Guid(013f349f5a37b4149a5db10314e91c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ball.cs using Guid(013f349f5a37b4149a5db10314e91c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9046f62f555279ed0647c1fb5a25bc6b') in 0.027399 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001829 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.959 seconds
+Domain Reload Profiling:
+	ReloadAssembly (960ms)
+		BeginReloadAssembly (169ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (57ms)
+		EndReloadAssembly (743ms)
+			LoadAssemblies (95ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (252ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (304ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (57ms)
+				ProcessInitializeOnLoadAttributes (229ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1510 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 71.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1958.
+Total: 2.381800 ms (FindLiveObjects: 0.114600 ms CreateObjectMapping: 0.037400 ms MarkObjects: 2.210700 ms  DeleteObjects: 0.018400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 114.153493 seconds.
+  path: Assets/DeepSpaceSkyboxPack/DiverseSpace/Diverse Space Skybox Readme.txt
+  artifactKey: Guid(0878d65f7c41c42e5856cbe16888f23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/DiverseSpace/Diverse Space Skybox Readme.txt using Guid(0878d65f7c41c42e5856cbe16888f23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f359a165013aec5ba2bf4ecd325ef0') in 0.025722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.554604 seconds.
+  path: Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures
+  artifactKey: Guid(5a00b10552cb81845b2c172c16f5af3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures using Guid(5a00b10552cb81845b2c172c16f5af3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '598195845507c3f3731d67a796541294') in 0.008455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.031174 seconds.
+  path: Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures/diversespace-back.tif
+  artifactKey: Guid(5aaf7cd74552c9440b96748a185216d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures/diversespace-back.tif using Guid(5aaf7cd74552c9440b96748a185216d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '208477419898a3a97f948602467c8296') in 0.052382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures/diversespace-down.tif
+  artifactKey: Guid(fa631bed8c5ce2043816f9b7e09bc255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures/diversespace-down.tif using Guid(fa631bed8c5ce2043816f9b7e09bc255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e356a17a9d80563be02c115c2bc5f05e') in 0.021886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures/diversespace-up.tif
+  artifactKey: Guid(bccfe129d6c46dd42a2332a24a0ea3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures/diversespace-up.tif using Guid(bccfe129d6c46dd42a2332a24a0ea3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26d8425d0aa1f3be72da4350d47d26b') in 0.013187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures/diversespace-left.tif
+  artifactKey: Guid(608a51bfce29a174aa86b692c9ff38b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures/diversespace-left.tif using Guid(608a51bfce29a174aa86b692c9ff38b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ff4d85494f3a5649d309254ea7f99b3') in 0.014610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures/diversespace-right.tif
+  artifactKey: Guid(b83ed05e17bb80a4d960bfc607d24c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures/diversespace-right.tif using Guid(b83ed05e17bb80a4d960bfc607d24c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aacebf0a3e4c2faf1ff30e2d289ca12') in 0.014778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures/diversespace-front.tif
+  artifactKey: Guid(52915f992843f8247b7efd2a65b1b998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/DiverseSpace/Textures/diversespace-front.tif using Guid(52915f992843f8247b7efd2a65b1b998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c49307512084e5b47b6470e5bcbd075b') in 0.014960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.241493 seconds.
+  path: Assets/DeepSpaceSkyboxPack/DiverseSpace/Material
+  artifactKey: Guid(801d7b59d645dee429a9a325fb708055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/DiverseSpace/Material using Guid(801d7b59d645dee429a9a325fb708055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a2ecd1e3eec5bc4989c2dd293691b30') in 0.007407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.552021 seconds.
+  path: Assets/Follow.cs
+  artifactKey: Guid(882229e598e533846ac0cd341c2ebcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Follow.cs using Guid(882229e598e533846ac0cd341c2ebcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dd9bf279c200ab03b95ed4f9e20c4de') in 0.006038 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
