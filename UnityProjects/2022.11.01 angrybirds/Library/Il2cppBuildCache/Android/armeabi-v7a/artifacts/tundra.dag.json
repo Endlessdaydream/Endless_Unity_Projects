@@ -1,0 +1,130 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so",
+      "Action": "\"D:\\Program Files\\MYWORLD\\Unity\\Unity Editor 2020\\2020.3.36f1c1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARMv7\" --configuration=\"Release\" --outputpath=\"E:\\MyProgram_ing\\Unity WY COURSE\\愤怒的小鸟\\angrybirds\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\Native\\armeabi-v7a\\libil2cpp.so\" --cachedirectory=\"E:\\MyProgram_ing\\Unity WY COURSE\\愤怒的小鸟\\angrybirds\\Assets\\..\\Library\\il2cpp_android_armeabi-v7a/il2cpp_cache\" --additional-include-directories=\"D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\bdwgc/include\" --additional-include-directories=\"D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\libil2cpp/include\" --baselib-directory=\"D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/PlaybackEngines/AndroidPlayer\\Variations\\il2cpp\\Release\\StaticLibs\\armeabi-v7a\" --avoid-dynamic-library-copy --tool-chain-path=\"D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=\"D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=\"E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput\" --stats-output-dir=\"E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppStats\"",
+      "Inputs": [
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/Tools/MapFileParser/MapFileParser.exe",
+        "D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a/baselib.a",
+        "D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a/libunityruntime.a",
+        "\"D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\""
+      ],
+      "Outputs": [
+        "E:/MyProgram_ing/Unity WY COURSE/愤怒的小鸟/angrybirds/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/bdwgc/include"
+    },
+    {
+      "File": "D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/libil2cpp/include"
+    },
+    {
+      "File": "D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "Path": "D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}

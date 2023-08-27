@@ -1,0 +1,771 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.36f1c1 (f1b5774ca487) revision 15840631'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'zh' Physical Memory: 16241 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\MYWORLD\Unity\Unity Editor 2020\2020.3.36f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/MyProgram_ing/Unity WY COURSE/2022.10.02/Dragon
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56039
+Successfully changed project path to: E:/MyProgram_ing/Unity WY COURSE/2022.10.02/Dragon
+E:/MyProgram_ing/Unity WY COURSE/2022.10.02/Dragon
+Using Asset Import Pipeline V2.
+AS: AutoStreaming module initializing.Refreshing native plugins compatible for Editor in 38.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.36f1c1 (f1b5774ca487)
+[Subsystems] Discovering subsystems at path D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/MyProgram_ing/Unity WY COURSE/2022.10.02/Dragon/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   30.0.15.1295
+Initialize mono
+Mono path[0] = 'D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56688
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/MYWORLD/Unity/Unity Editor 2020/2020.3.36f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000823 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.504 seconds
+Domain Reload Profiling:
+	ReloadAssembly (504ms)
+		BeginReloadAssembly (48ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (398ms)
+			LoadAssemblies (48ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (134ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (152ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (40ms)
+				BeforeProcessingInitializeOnLoad (14ms)
+				ProcessInitializeOnLoadAttributes (68ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001739 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 41.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.039 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1040ms)
+		BeginReloadAssembly (126ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (866ms)
+			LoadAssemblies (77ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (265ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (333ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (42ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (186ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.6 MB.
+System memory in use after: 99.6 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2637.
+Total: 2.766400 ms (FindLiveObjects: 0.154700 ms CreateObjectMapping: 0.067600 ms MarkObjects: 2.431300 ms  DeleteObjects: 0.112200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df75b7d1a31c5b4f73fd45661b403b04') in 0.003718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39830e642e86629427d938554181f2fd') in 0.001690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.623195 seconds.
+  path: Packages/com.unity.ext.nunit/package.json
+  artifactKey: Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit/package.json using Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f449bd9ed4a92e06d659da724da745') in 0.052244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.642900 seconds.
+  path: Packages/com.unity.2d.psdimporter/package.json
+  artifactKey: Guid(2f948ecb81c850949a2725b1ba265844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.psdimporter/package.json using Guid(2f948ecb81c850949a2725b1ba265844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aa7e14c9f31b3f1216146f757763f3b') in 0.006508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.462683 seconds.
+  path: Packages/com.unity.2d.animation/package.json
+  artifactKey: Guid(9e83c20a8293f44ec8a375d3805f477d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/package.json using Guid(9e83c20a8293f44ec8a375d3805f477d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '159119c7d4230995955d8e8a2295dc09') in 0.006651 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001626 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Domain Reload Profiling:
+	ReloadAssembly (889ms)
+		BeginReloadAssembly (107ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (722ms)
+			LoadAssemblies (88ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (267ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (254ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (160ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2201 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.6 MB.
+System memory in use after: 99.6 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2641.
+Total: 2.517700 ms (FindLiveObjects: 0.144300 ms CreateObjectMapping: 0.066900 ms MarkObjects: 2.217900 ms  DeleteObjects: 0.088100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 198.319177 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/guard_02.png
+  artifactKey: Guid(adcf13083344f6b418ec8b7f46d79016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/guard_02.png using Guid(adcf13083344f6b418ec8b7f46d79016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80b369569bb95a4bba35f81b1977fdff') in 0.089148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/guard_01.png
+  artifactKey: Guid(6d7944909d47b6a4380f17dcd0174d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/guard_01.png using Guid(6d7944909d47b6a4380f17dcd0174d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd4f7c92cceb1235dc5f4c303703fa54') in 0.012256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/hatchling_02.png
+  artifactKey: Guid(07173621132ff6d4193fa05952e11561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/hatchling_02.png using Guid(07173621132ff6d4193fa05952e11561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3204cfe99b128ec3008f9e88f40347bb') in 0.011859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/dragon_bomb.png
+  artifactKey: Guid(cfd0abf9fb06fcf4da851f6f19ae006b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/dragon_bomb.png using Guid(cfd0abf9fb06fcf4da851f6f19ae006b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '454a07cb4ac79931d7e815de9032555d') in 0.012682 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/dragon_04.png
+  artifactKey: Guid(d618a6e5bb507b24690114ddf529dd22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/dragon_04.png using Guid(d618a6e5bb507b24690114ddf529dd22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '018ce7fdf8bbe4d7b02b4149edc6c2b4') in 0.014120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/hatchling_05.png
+  artifactKey: Guid(7f6b74dfad8099b458bef3516562f388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/hatchling_05.png using Guid(7f6b74dfad8099b458bef3516562f388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a77d814c62c6beae515b7603e34d85a6') in 0.010726 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/hatchling_06.png
+  artifactKey: Guid(a687296b0a50b5048837f381818ff5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/hatchling_06.png using Guid(a687296b0a50b5048837f381818ff5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '540ba8430f7ee560be6df181fac5ffaf') in 0.014266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/hatchling_04.png
+  artifactKey: Guid(e541ea734d1075749a02ffb7b0a7eb24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/hatchling_04.png using Guid(e541ea734d1075749a02ffb7b0a7eb24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2f6664df9d6ba6bd2d2e94caf1e45bd') in 0.007691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/dragon_03.png
+  artifactKey: Guid(73339e7ae489dea4abf4ddeca9a34cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/dragon_03.png using Guid(73339e7ae489dea4abf4ddeca9a34cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0bbd190b3236bc6e1977fc134641893') in 0.013435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/hatchling_03.png
+  artifactKey: Guid(fecccebef607ff149a74ec1ea4bf9965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/hatchling_03.png using Guid(fecccebef607ff149a74ec1ea4bf9965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c10a10ef23512ba73a292b6e713b87') in 0.015401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.842670 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/hatchling_07.png
+  artifactKey: Guid(945112ba152bc104fb33379a3770d58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/hatchling_07.png using Guid(945112ba152bc104fb33379a3770d58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a589c462ee40d0aa484475c9a0a19429') in 0.024299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000624 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/snow.png
+  artifactKey: Guid(5c8c1524cb9f91b4a9af5a5e74fe3268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/snow.png using Guid(5c8c1524cb9f91b4a9af5a5e74fe3268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca7b2ce6ef29b115c843daa810e27061') in 0.014384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/hatchling_09.png
+  artifactKey: Guid(92689c73b492f2544b6a4627512e1cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/hatchling_09.png using Guid(92689c73b492f2544b6a4627512e1cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c349c9927094772c36fed7d7125f0ad2') in 0.013282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/hatchling_08.png
+  artifactKey: Guid(96c404fed67a06340858635ccd866567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/hatchling_08.png using Guid(96c404fed67a06340858635ccd866567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df85b1aff85b1a858529f66f7c51e521') in 0.009965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sunny_01.png
+  artifactKey: Guid(b8936612250e24a4d836672ea3d6e2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sunny_01.png using Guid(b8936612250e24a4d836672ea3d6e2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a05e7b2384b4c45c43574a385a0f795') in 0.013216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/hatchling_10.png
+  artifactKey: Guid(11fee912a26ec6e4c910a90f2da63b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/hatchling_10.png using Guid(11fee912a26ec6e4c910a90f2da63b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93accebe7beded0ef2f1b34c20c561ff') in 0.018985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.477495 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sunny_02.png
+  artifactKey: Guid(c5025e87b3e7a174286e680c71c0ab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sunny_02.png using Guid(c5025e87b3e7a174286e680c71c0ab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5cc187f24d2f97e904049ced1d7d98') in 0.024924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sunny_05.png
+  artifactKey: Guid(27b049381efc8c54798365f878764119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sunny_05.png using Guid(27b049381efc8c54798365f878764119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cad6891e1ca5e526815ef78b93d1c661') in 0.016327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/surprise.png
+  artifactKey: Guid(4214da60c6cfe2243b9689159948451c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/surprise.png using Guid(4214da60c6cfe2243b9689159948451c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8519128503d4fd0edbff40372f8958da') in 0.019624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sunny_03.png
+  artifactKey: Guid(7f857e1cea8eb8540b95f4d14b8e9d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sunny_03.png using Guid(7f857e1cea8eb8540b95f4d14b8e9d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3559f99afe0c594e88328042ad3013c3') in 0.012888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.290227 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.001232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.867875 seconds.
+  path: Assets/Material
+  artifactKey: Guid(5828e59eb4b0ee146a71002d32a7c975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material using Guid(5828e59eb4b0ee146a71002d32a7c975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7f46eb3e439a3d34e981935f49bab1') in 0.001481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.639895 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(3acb028eca2c7184485159a462fc6f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(3acb028eca2c7184485159a462fc6f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b49a9ef29f5cbe6df486042e0dbc3a') in 0.001972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.319925 seconds.
+  path: Assets/Script
+  artifactKey: Guid(23e86a3dd9f820442a497b3f02a9ad40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script using Guid(23e86a3dd9f820442a497b3f02a9ad40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f19210ad78b57c6c8f1b0061bd257f03') in 0.001635 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.612641 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(23e86a3dd9f820442a497b3f02a9ad40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(23e86a3dd9f820442a497b3f02a9ad40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '339b048a124efde0b6ee2d96b439fca3') in 0.002099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.314380 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/Scripts
+  artifactKey: Guid(9147d7cf05d1ddb41ae083c1baa7ff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/Scripts using Guid(9147d7cf05d1ddb41ae083c1baa7ff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc95b7f97f84ec38ba6d3981f4fce654') in 0.001585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 133.769212 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/场景
+  artifactKey: Guid(782d523a17325004b95bab5d4352bb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/场景 using Guid(782d523a17325004b95bab5d4352bb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a752c6724f6f58bd6fe53f50044fd107') in 0.002204 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.056668 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/场景/01.png
+  artifactKey: Guid(f496bcafb9255be468401e479087d662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/场景/01.png using Guid(f496bcafb9255be468401e479087d662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95c1d0093aa2e1023c6415a005cdd84c') in 0.012725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/场景/03.png
+  artifactKey: Guid(086801f6c32a54d45afbef6743d3bd4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/场景/03.png using Guid(086801f6c32a54d45afbef6743d3bd4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '236f90044473dff1c7d45ccd8062e520') in 0.010859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/场景/02.png
+  artifactKey: Guid(2ec4075243bc3124798c73afae79ea2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/场景/02.png using Guid(2ec4075243bc3124798c73afae79ea2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e624845216f684117344e728404c7e3b') in 0.010271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 182.579780 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/alche.wav
+  artifactKey: Guid(6a0e12ab4ba2efa48bbdf4f189bd5765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/alche.wav using Guid(6a0e12ab4ba2efa48bbdf4f189bd5765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '848a36ad481e27c16f2a2c2ace8cc4d5') in 0.029639 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/dragon_breathe.wav
+  artifactKey: Guid(793f4accaad17c1479c416d01cb9f2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/dragon_breathe.wav using Guid(793f4accaad17c1479c416d01cb9f2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10e8d166587b9135c4387dd251186496') in 0.008931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/clear_screen.wav
+  artifactKey: Guid(a4b9cbddcae498f4693b17b22ee7a808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/clear_screen.wav using Guid(a4b9cbddcae498f4693b17b22ee7a808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80429d5c6656fd1c4eccc5c663b7d711') in 0.008021 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/block_damage.wav
+  artifactKey: Guid(a0782247ae0a2fa42a268cf45e78322d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/block_damage.wav using Guid(a0782247ae0a2fa42a268cf45e78322d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96c1302aa4a8256d22b51e1b2e5d0e4') in 0.007892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/baby_dragon_die.wav
+  artifactKey: Guid(9c95f80a1fabc6d41bd50b5b79d41c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/baby_dragon_die.wav using Guid(9c95f80a1fabc6d41bd50b5b79d41c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b7a968c02ed0e99db932eea75b7ff4f') in 0.007940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/blizzard.wav
+  artifactKey: Guid(2d4178126918fe746bbc856afed8aaf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/blizzard.wav using Guid(2d4178126918fe746bbc856afed8aaf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b7a3764041a05714d5c0cf6d55a7d9f') in 0.008406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/appear_attack.wav
+  artifactKey: Guid(80a87f0fc971c7341a51c643a8c954b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/appear_attack.wav using Guid(80a87f0fc971c7341a51c643a8c954b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '911584467efc61ce4bb9a608dfed6ccc') in 0.007396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/disappear.wav
+  artifactKey: Guid(69e3087a8bc1a204d82714f3fe836020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/disappear.wav using Guid(69e3087a8bc1a204d82714f3fe836020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13e24f14c3e014051d61980e0a0b2d49') in 0.009177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/explosion.wav
+  artifactKey: Guid(6d81d05b56b8cad4ebfe268871c092f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/explosion.wav using Guid(6d81d05b56b8cad4ebfe268871c092f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e6569945fcae1f0d06ba590c5399eb') in 0.007457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/critical.wav
+  artifactKey: Guid(06629a7f0fdca974b928e8ef89732a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/critical.wav using Guid(06629a7f0fdca974b928e8ef89732a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00756ed6b21bd82baa3e6b4400d9a2aa') in 0.010731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/baby_dragon_born.wav
+  artifactKey: Guid(86733b0fc7c7e9e4885293b92d6b03de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/baby_dragon_born.wav using Guid(86733b0fc7c7e9e4885293b92d6b03de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f44113fdbbe61883ad1d0969aea320c') in 0.011128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/egg_breaking.wav
+  artifactKey: Guid(65e0829e08120424a8af9afb0631ca33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/egg_breaking.wav using Guid(65e0829e08120424a8af9afb0631ca33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a35e056f5e73829ccff158ec7802918') in 0.007587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/dragon_death.wav
+  artifactKey: Guid(ea7c3dddbf0459143b853613196fafc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/dragon_death.wav using Guid(ea7c3dddbf0459143b853613196fafc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6380a6301f2d6fc8b516f70404dfa1d5') in 0.007551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/ch_die.wav
+  artifactKey: Guid(82fd11dc4645ef245b663f8164efc4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/ch_die.wav using Guid(82fd11dc4645ef245b663f8164efc4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14ac430c94cf65cba11d7fee235ce11a') in 0.010480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/buy_holy_artifact.wav
+  artifactKey: Guid(ba5325335121bbe4ab18fe1275381adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/buy_holy_artifact.wav using Guid(ba5325335121bbe4ab18fe1275381adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11d2016ff82a2e6eac384c13964e6019') in 0.009757 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/commend.wav
+  artifactKey: Guid(4c8ed1d33e533b14aa7fc3fc578c0ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/commend.wav using Guid(4c8ed1d33e533b14aa7fc3fc578c0ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '596c094e6794a87d8e0e87872c1336d9') in 0.007405 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/explosive_light.wav
+  artifactKey: Guid(c91dd4da60acd0c45a1eb9aa0998922c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/explosive_light.wav using Guid(c91dd4da60acd0c45a1eb9aa0998922c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dee3153a84a9cb96a8f3e6b3a5c1a5f') in 0.010443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/boss_come.wav
+  artifactKey: Guid(1141e923dc5fcca41832fa625f2ed090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/boss_come.wav using Guid(1141e923dc5fcca41832fa625f2ed090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b940665c2810fd7e0243a270dd00378') in 0.011774 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/egg_break.wav
+  artifactKey: Guid(aac5c5aeef8bfe445bc923b36785838c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/egg_break.wav using Guid(aac5c5aeef8bfe445bc923b36785838c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e389b0b2b85ab5a84a234a4b7795be0a') in 0.010265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/cragon_attack.wav
+  artifactKey: Guid(464d9e05955691e408a0dee9e4182adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/cragon_attack.wav using Guid(464d9e05955691e408a0dee9e4182adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5bcad06a152b081af435ef8c0d7eb92') in 0.009808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/cragon_summon.wav
+  artifactKey: Guid(bd3ab44a14c5b2848bfbcd442f27e7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/cragon_summon.wav using Guid(bd3ab44a14c5b2848bfbcd442f27e7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81f6fb1907b7277424ab2472fb5a88b4') in 0.007313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/equip.wav
+  artifactKey: Guid(67be7b4be92f40d4b98dfb54ae3892e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/equip.wav using Guid(67be7b4be92f40d4b98dfb54ae3892e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05dc10a46ea4301e948bae7240703448') in 0.005811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/alert.wav
+  artifactKey: Guid(d0f775bd1a9216a4db7e35ff29385700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/alert.wav using Guid(d0f775bd1a9216a4db7e35ff29385700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9e1c72edf74bbf9d081fb30e53baec') in 0.006163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/candy.wav
+  artifactKey: Guid(9fc27cd8a437ff9469516459f5613016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/candy.wav using Guid(9fc27cd8a437ff9469516459f5613016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce0691b9ecef9c1d1b94ab9cd2ec839') in 0.006705 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sound/alert_ big.wav
+  artifactKey: Guid(ecbf51febdec7a647bb82eab3f68bc5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sound/alert_ big.wav using Guid(ecbf51febdec7a647bb82eab3f68bc5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac48a84bd48e64832b06bbbb567e3b25') in 0.006343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.432891 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/Scripts/CamRatioAdapter.cs
+  artifactKey: Guid(86dbe61a2bdda894d8a73cc16fe68976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/Scripts/CamRatioAdapter.cs using Guid(86dbe61a2bdda894d8a73cc16fe68976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05719c4853eb098596e4627a48cc6857') in 0.008529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 149.877355 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/参考图/9e05c406bb07b01d4d5477e541717a52(2).jpg
+  artifactKey: Guid(7ae102c5cc89bf44899f12474e597350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/参考图/9e05c406bb07b01d4d5477e541717a52(2).jpg using Guid(7ae102c5cc89bf44899f12474e597350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1429458d0ee5dc40882f6f50922c2a4b') in 0.015451 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/参考图/2014-01-02055033-_1388656233138_7538.jpg
+  artifactKey: Guid(8ccfc0278999c984da95e0f13241d0fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/参考图/2014-01-02055033-_1388656233138_7538.jpg using Guid(8ccfc0278999c984da95e0f13241d0fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45f74a0186d66d058bb035048afdd4c') in 0.015738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/参考图/74359232efea28f078b0bcfb2e5852ad.jpg
+  artifactKey: Guid(bad5cb88f086f6e4c9e0740583cb3841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/参考图/74359232efea28f078b0bcfb2e5852ad.jpg using Guid(bad5cb88f086f6e4c9e0740583cb3841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b866e5efbeafeb0d29ad7a2c69b497e') in 0.029168 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/参考图/b3a413d4-07bd-4e5a-b82e-d81a2f82217c.jpg
+  artifactKey: Guid(9a554c4596318db4c9d05c04a6a9615b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/参考图/b3a413d4-07bd-4e5a-b82e-d81a2f82217c.jpg using Guid(9a554c4596318db4c9d05c04a6a9615b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e106fd44aad92bd8bc068a069f1161cb') in 0.021901 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/参考图/a86ce6ad4997f18e1f8456c602ee3370.jpg
+  artifactKey: Guid(feb9d7b186be74b48b5a0e24b7cd0646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/参考图/a86ce6ad4997f18e1f8456c602ee3370.jpg using Guid(feb9d7b186be74b48b5a0e24b7cd0646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8200797eb8ec1fc3faa52628615ffb7') in 0.023727 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001734 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.820 seconds
+Domain Reload Profiling:
+	ReloadAssembly (821ms)
+		BeginReloadAssembly (94ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (681ms)
+			LoadAssemblies (74ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (245ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (248ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (159ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2201 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.8 MB.
+System memory in use after: 102.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2667.
+Total: 2.746100 ms (FindLiveObjects: 0.147500 ms CreateObjectMapping: 0.065100 ms MarkObjects: 2.393500 ms  DeleteObjects: 0.139100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 19.741002 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sunny_02.png
+  artifactKey: Guid(c5025e87b3e7a174286e680c71c0ab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sunny_02.png using Guid(c5025e87b3e7a174286e680c71c0ab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8bb964482bb5b0687ac34522640ad6') in 0.026383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.837929 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sunny_02.png
+  artifactKey: Guid(c5025e87b3e7a174286e680c71c0ab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sunny_02.png using Guid(c5025e87b3e7a174286e680c71c0ab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e01391ea67f33bfbc9dac9cbc2ab384') in 0.028699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.540905 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sunny_01.png
+  artifactKey: Guid(b8936612250e24a4d836672ea3d6e2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sunny_01.png using Guid(b8936612250e24a4d836672ea3d6e2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2324e39f614de1f759ef09e19dba5a2') in 0.006998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.432473 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sunny_01.png
+  artifactKey: Guid(b8936612250e24a4d836672ea3d6e2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sunny_01.png using Guid(b8936612250e24a4d836672ea3d6e2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8709f55a6136d3b6642a74d148663fc3') in 0.013973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 165.849461 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95df672b4aaba54310d34c83eef51bb8') in 0.004949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 191.703374 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sunny_01.png
+  artifactKey: Guid(b8936612250e24a4d836672ea3d6e2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sunny_01.png using Guid(b8936612250e24a4d836672ea3d6e2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c90a46e775aa5cc55b8b706c638d3a') in 0.017133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sunny_02.png
+  artifactKey: Guid(c5025e87b3e7a174286e680c71c0ab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sunny_02.png using Guid(c5025e87b3e7a174286e680c71c0ab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf4581a03424c199b2489f245174cf4') in 0.024473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sunny_05.png
+  artifactKey: Guid(27b049381efc8c54798365f878764119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sunny_05.png using Guid(27b049381efc8c54798365f878764119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c02f4df01442bb05dfe88225b3db9657') in 0.008893 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/220614_115341-飞龙射击资源包/sunny_03.png
+  artifactKey: Guid(7f857e1cea8eb8540b95f4d14b8e9d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包/sunny_03.png using Guid(7f857e1cea8eb8540b95f4d14b8e9d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2c6ceb2b176bcbe9ac68d829f34ec44') in 0.008979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 274.018427 seconds.
+  path: Packages/com.unity.2d.sprite/package.json
+  artifactKey: Guid(7dc5f1e5d04ac8549ac21802071e983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/package.json using Guid(7dc5f1e5d04ac8549ac21802071e983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff87128bdf6981a9843158b29f26b2df') in 0.006231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.423253 seconds.
+  path: Packages/com.unity.2d.spriteshape/package.json
+  artifactKey: Guid(4eabc3d1ad1424372b03cfc117521e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/package.json using Guid(4eabc3d1ad1424372b03cfc117521e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02acd1584fc50adc071c4ff39eabbed') in 0.005145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.510929 seconds.
+  path: Assets/220614_115341-飞龙射击资源包
+  artifactKey: Guid(bce640fc7377614458df0b7c6d71a32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/220614_115341-飞龙射击资源包 using Guid(bce640fc7377614458df0b7c6d71a32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c6fc6228ee6903c2019f6ae3ae8dcd') in 0.001824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 58.058238 seconds.
+  path: Assets/Scripts/PlayerControl.cs
+  artifactKey: Guid(087916b941ed0424b86095283676d818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControl.cs using Guid(087916b941ed0424b86095283676d818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ab2a8eebf5c1638a68285cf9f7cabf') in 0.001798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 210.258917 seconds.
+  path: Assets/Scripts/PlayerControl.cs
+  artifactKey: Guid(087916b941ed0424b86095283676d818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControl.cs using Guid(087916b941ed0424b86095283676d818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '705d3e01eb288f1c7937b1f87d47c5e9') in 0.001563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.195764 seconds.
+  path: Assets/Scripts/PlayerCha.cs
+  artifactKey: Guid(403d14ae6374ef34a97aedb0f4e62a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerCha.cs using Guid(403d14ae6374ef34a97aedb0f4e62a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e88a46cd8f526cf5151eb891abeef8e') in 0.001701 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 363.127722 seconds.
+  path: Assets/Scripts/PlayerCha.cs
+  artifactKey: Guid(403d14ae6374ef34a97aedb0f4e62a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerCha.cs using Guid(403d14ae6374ef34a97aedb0f4e62a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75bccc3e573dc9b14fc11538a95f7716') in 0.001710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.290356 seconds.
+  path: Assets/Prefabs/飞龙1.prefab
+  artifactKey: Guid(4ef32a9d7ba78dd4181e053ee65dfb6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/飞龙1.prefab using Guid(4ef32a9d7ba78dd4181e053ee65dfb6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (sunny_01_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[E:\unity\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (sunny_01_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[E:\unity\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: 'd77278ec7fe3ba406626b154f9027d64') in 0.033006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.833250 seconds.
+  path: Assets/Scripts/PlayerControl.cs
+  artifactKey: Guid(087916b941ed0424b86095283676d818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControl.cs using Guid(087916b941ed0424b86095283676d818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9739495b96e07771329219ebb29e1fe4') in 0.002185 seconds 
